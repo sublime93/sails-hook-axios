@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://BOESGIT01/n-tech/sails-hook-axios.git"
+    "url": "https://github.com/sublime93/sails-hook-axios"
   },
   "sails": {
     "isHook": true
   },
-  "author": "N-Tech Consulting <itsupport@ntech.io>",
+  "author": "Jordan Vohwinkel <jvohwinkel@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.0"
