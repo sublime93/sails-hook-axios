@@ -1,5 +1,5 @@
 {
-  "name": "sails-hook-axios",
+  "name": "sails-hook-better-axios",
   "version": "1.0.0",
   "description": "Sails hook to interface with Axios",
   "main": "lib/index.js",
